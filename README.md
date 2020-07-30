@@ -1,5 +1,7 @@
 # Blog-Website⚡
 
+A beautiful personal diary or personal blog website😍
+
 This website is a place where you can write blogs and publish it🔥🔥. The blogs are saved in the database so no worry of losing your work🤩.
 
 It is built with express.js and database used is mongodb✨.
